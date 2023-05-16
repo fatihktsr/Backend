@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T03:26:54.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="q92ZbStp8xfM54NDECiB" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T03:30:33.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="e-rRt7YC7ZAwxGjBqWnV" version="21.3.2" type="github">
   <diagram name="Page-1" id="XIC4esXYD0cBb3S4FwK3">
     <mxGraphModel dx="1216" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,11 +28,21 @@
         <mxCell id="E7OeqzelO8EWKugM96J4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E7OeqzelO8EWKugM96J4-11" target="E7OeqzelO8EWKugM96J4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E7OeqzelO8EWKugM96J4-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E7OeqzelO8EWKugM96J4-27">
+          <mxGeometry x="-0.3392" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E7OeqzelO8EWKugM96J4-11" value="Surat Pesanan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="170" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E7OeqzelO8EWKugM96J4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E7OeqzelO8EWKugM96J4-18" target="E7OeqzelO8EWKugM96J4-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7OeqzelO8EWKugM96J4-30" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E7OeqzelO8EWKugM96J4-28">
+          <mxGeometry x="-0.2738" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E7OeqzelO8EWKugM96J4-18" value="Mencatat surat pesanan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="260" width="130" height="40" as="geometry" />
